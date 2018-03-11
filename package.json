@@ -1,0 +1,19 @@
+{
+  "name": "nodetest",
+  "version": "0.0.1",
+  "description": "none",
+  "main": "none",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LexieVer/NodeTest.git"
+  },
+  "author": "Alexandra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LexieVer/NodeTest/issues"
+  },
+  "homepage": "https://github.com/LexieVer/NodeTest#readme"
+}
